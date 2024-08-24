@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HungryHub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="_1">1</string>
+    <string name="textview">TextView</string>
+    <string name="price">Price</string>
+    <string name="tod">TODO</string>
+    <string name="food_name">food name</string>
+    <string name="hello">Hello</string>
+    <string name="Hello">Beerendra</string>
+    <string name="dummytext_gmail_com">dummytext@gmail.com</string>
+    <string name="default_web_client_id" />
+</resources>

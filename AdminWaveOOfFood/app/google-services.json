@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903250284517",
+    "project_id": "cloud-kitchen-a5b08",
+    "storage_bucket": "cloud-kitchen-a5b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903250284517:android:19528616337cc51aefe90c",
+        "android_client_info": {
+          "package_name": "com.example.adminwaveooffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeAPN7L_s7pRSs0KV6lkh29nnrRqyl0Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
